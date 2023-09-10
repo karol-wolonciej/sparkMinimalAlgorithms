@@ -3,11 +3,11 @@
 
 Nootebok w zepellinie z zaimplementowanymi algorytmami minimalnymi w sparku i scali 2:
 
--MapReduce
--Terasort
--Sliding Aggregation
--Perfect Balance Sort
--Prefix Sum
--Ranking
+- MapReduce
+- Terasort
+- Sliding Aggregation
+- Perfect Balance Sort
+- Prefix Sum
+- Ranking
 
 
