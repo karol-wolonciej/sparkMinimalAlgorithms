@@ -5,7 +5,7 @@ Implementacja algorytmów minimalnych w sparku i scali 2:
 
 - MapReduce
 - Terasort
-- Sliding Aggregationyy
+- Sliding Aggregation
 - Perfect Balance Sort
 - Prefix Sum
 - Ranking
