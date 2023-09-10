@@ -11,6 +11,7 @@ Nootebok w zepellinie z zaimplementowanymi algorytmami minimalnymi w sparku i sc
 - Ranking
 
 
+
     trait MapReduce extends java.io.Serializable {
       this: Settings =>
       import org.apache.spark.Partitioner
