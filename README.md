@@ -10,7 +10,7 @@ Implementacja algorytmów minimalnych w sparku i scali 2:
 - Prefix Sum
 - Ranking
 
-
+Przykład jak zaimplementowany jest MapReduce z artykułu:
 
       trait MapReduce extends java.io.Serializable {
           this: Settings =>
